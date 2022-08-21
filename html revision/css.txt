@@ -1,0 +1,50 @@
+CSS: cascading style sheets
+
+property:value;
+color:red;
+backgroud-color:blue;
+heigth:200px;
+width:200px;
+
+
+
+There are many  ways to write css 
+- Inline css : when we write the css within the html opening tag this is called Inline css
+
+for this you need to a attribute that is style attribute
+
+for example
+
+<h1 style="color:red; backgroud-color: green"> Welcome to my world </h1>
+
+Advantage
+======
+
+- it loads with html element
+- it has high priority
+- we can write css with the html tag
+- we doesnt need any external file
+- it loads fast compare to any external css 
+
+2) internal css : in this you need to write the css within the style tag and you can place style tag in the body tag or within the head tag. 
+
+
+<head>
+<style>
+
+
+</style>
+
+</head>
+
+
+there are multiple ways to select the html element or tag and this is css selector;
+
+- element/tag selector
+- class selector
+- id select
+- attribute selector
+
+
+
+
